@@ -1,5 +1,5 @@
 # HIT140 - Foundation of Data Science
-# Objective 1: Analytic Question
+# Objective 4: Analytic Question
 #
 # Question:
 # Is there a statistically significant difference in the average
